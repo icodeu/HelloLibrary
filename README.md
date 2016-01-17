@@ -1,4 +1,3 @@
-# HelloLibrary 
 ### 写自己的开源库，发布到 JitPack.io
 
 博客地址首发：[http://icodeyou.com/2015/12/23/2015-12-23-AndroidLibraryJitPack](http://icodeyou.com/2015/12/23/2015-12-23-AndroidLibraryJitPack)
